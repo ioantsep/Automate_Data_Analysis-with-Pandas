@@ -1,2 +1,2 @@
 # Automate_Data_Analysis-with-Pandas
-Automate Data Analysis with Pandas
+Streamlit App for Automate Data Analysis with Pandas
